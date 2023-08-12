@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: E課李語
-subtitle:
-description: 閒聊大數據、統計、經濟
-author: 李玫郁
+title: AI數據分析快報
+subtitle: AI Data Analytics Letters
+description: 這是一個使用先進數據分析方法，重新對數據進行分析後的學術成果刊登點
+author: 主編
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-tw
 date_format: '%Y-%m-%d'
@@ -15,7 +15,7 @@ timezone: 'Asia/Taipei'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://meiyulee.github.io
+url: https://aida-tw.github.io
 baseurl: /leetalk
 permalink: /:year/:month/:day/:title
 
@@ -154,8 +154,8 @@ menu_icons:
 
 # Schemes
 # scheme: Muse
-# scheme: Mist
-scheme: Pisces
+scheme: Mist
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -307,7 +307,7 @@ excerpt_description: true
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: false
-  length: 150
+  length: 20
 
 # Post meta display settings
 post_meta:
